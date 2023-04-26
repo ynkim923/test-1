@@ -87,3 +87,5 @@ class a {
 
 이미지
 ![텍스트](이미지링크주소)
+![귀여운자기야](https://user-images.githubusercontent.com/130714939/234462820-09ee1214-6047-40c6-ab12-5ea7618f6d75.jpg)
+
